@@ -1,8 +1,10 @@
 
+---
+
 ## 3. Feature Engineering 
 
 ### 3.1 Feature Transformation 
-  #### 3.1.1 Feature Scaling
+#### 3.1.1 Feature Scaling
   - [Standardization](https://github.com/Rudra-G-23/100-Days-of-ML/tree/main/003-feature-engineering/feature-transformation/feature-scaling/D024-standardization)
   - [Normalization](https://github.com/Rudra-G-23/100-Days-of-ML/tree/main/003-feature-engineering/feature-transformation/feature-scaling/D025-normalization)
 #### 3.1.2 Encoding Numerical & Categorical Features
@@ -31,3 +33,29 @@
 - [Outlier removal using Z-score](https://github.com/Rudra-G-23/100-Days-of-ML/tree/main/003-feature-engineering/feature-transformation/handling-outliers/D042-outlier-removal-using-zscore)
 - [Outlier removal using the IQR method](https://github.com/Rudra-G-23/100-Days-of-ML/tree/main/003-feature-engineering/feature-transformation/handling-outliers/D043-outlier-removal-using-iqr-method)
 - [Outlier removal using Percentiles](https://github.com/Rudra-G-23/100-Days-of-ML/tree/main/003-feature-engineering/feature-transformation/handling-outliers/D044-outlier-detection-using-percentiles)
+
+#### 3.1.5 Prerequisite
+  - [Column Transformation](https://github.com/Rudra-G-23/100-Days-of-ML/tree/main/003-feature-engineering/prerequisite/D028-column-transformer)
+  - [Sklearn Pipeline](https://github.com/Rudra-G-23/100-Days-of-ML/tree/main/003-feature-engineering/prerequisite/D029-sklearn-pipelines)
+
+### 3.2 Feature Construction
+  - [Feature Construction & splitting](https://github.com/Rudra-G-23/100-Days-of-ML/tree/main/003-feature-engineering/feature-construction/D045-feature-construction-and-feature-splitting)
+
+### 3.3 Feature Extraction
+  - [PCA](https://github.com/Rudra-G-23/100-Days-of-ML/tree/main/003-feature-engineering/feature-extraction/D047-pca)
+  - [PCA Application](https://www.kaggle.com/code/rudraprasadbhuyan/principal-component-analysis-knn)
+
+---
+
+### 4. Regression
+  - [Simple Linear Regression from Scratch](https://github.com/Rudra-G-23/100-Days-of-ML/tree/main/004-Regression/D048-simple-linear-regression)
+  - [Regression Metrics](https://github.com/Rudra-G-23/100-Days-of-ML/tree/main/004-Regression/D049-regression-metrics)
+  - [Multiple Linear Regression](https://github.com/Rudra-G-23/100-Days-of-ML/tree/main/004-Regression/D050-multiple-linear-regression)
+  - [Polynomial Regression](https://github.com/Rudra-G-23/100-Days-of-ML/tree/main/004-Regression/D053-polynomial-regression)
+
+---
+
+### 5. Gradient Descent
+  - [Gradient Descent](https://github.com/Rudra-G-23/100-Days-of-ML/tree/main/005-Gradient-Descent)
+  - [Type of Gradient Descent](https://github.com/Rudra-G-23/100-Days-of-ML/tree/main/005-Gradient-Descent)
+
