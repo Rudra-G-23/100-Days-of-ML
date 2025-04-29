@@ -132,3 +132,22 @@
 | ElasticNet Regression | Comparison and Effects | [ 👨‍💻](https://github.com/Rudra-G-23/100-Days-of-ML/blob/main/006-Regularization/D057-elasticnet-regression/d057-elastic-net-regression.ipynb) | [ 🔥](https://youtu.be/2g2DBkFhTTY?si=EKe9wHb4dNt8GFCi) |
 
 ---
+
+# 7. 📘 Logistic Regression
+
+| Topic | What You'll Learn | Notebook | Lecture |
+|-------|-------------------|----------------|--------------|
+| LR 1 - Perceptron Trick | Why to use it, transformations, region concept | - | [🔥 ](https://youtu.be/XNXzVfItWGY?si=V4IK0OnMLi-loBmq) |
+| LR 2 - Perceptron Trick Code | Math to algorithm conversion | [👨‍💻  ](https://github.com/Rudra-G-23/100-Days-of-ML/blob/main/007-Logistic-Regression/D058-60-logistic-regression/d058-1-perceptron-trick.ipynb) | [🔥 ](https://youtu.be/tLezwPKvPK4?si=BmBqY5r5Yw1FMUD7) |
+| LR 3 - Sigmoid Function | How the sigmoid function helps to find the error line | [👨‍💻  ](https://github.com/Rudra-G-23/100-Days-of-ML/blob/main/007-Logistic-Regression/D058-60-logistic-regression/d058-2-perceptron-trick-sigmoid.ipynb) | [🔥 ](https://youtu.be/ehO0-6i9qD4?si=G5MPcuqNU7q1aHRM) |
+| LR 4 - Math Behind Optimal Line | Maximum likelihood, binary cross-entropy, gradient descent | - | [🔥 ](https://youtu.be/6bXOo0sxY5c?si=dIJouZmqGSly5LY9) |
+| Extra - Derivative of Sigmoid | Helps derive matrix form from loss function | - | [🔥 ](https://youtu.be/awjXaFR1jOM?si=DFoNIZXKWkxoNMMM) |
+| LR 5 - Logistic Regression (Gradient Descent) | Scratch   implementation | [👨‍💻  ](https://github.com/Rudra-G-23/100-Days-of-ML/blob/main/007-Logistic-Regression/D058-60-logistic-regression/d058-3-gradient-descent.ipynb) | [🔥 ](https://youtu.be/ABrrSwMYWSg?si=qLVeSllhEMaO3Z64) |
+| LR 6 - Multinomial Logistic Regression | Softmax regression | [👨‍💻  ](https://github.com/Rudra-G-23/100-Days-of-ML/blob/main/007-Logistic-Regression/D058-60-logistic-regression/d060-4-softmax-regression-multinomial.ipynb) | [🔥 ](https://youtu.be/Z8noL_0M4tw?si=YT6bOk373RWTdBa9) |
+| LR 7 - Non-Linear Regression | Polynomial features | [👨‍💻  ](https://github.com/Rudra-G-23/100-Days-of-ML/blob/main/007-Logistic-Regression/D058-60-logistic-regression/d060-5-polynomial-logistic-regression.ipynb) | [🔥 ](https://youtu.be/WnBYW_DX3sM?si=3OwkTs282U-JXyk0) |
+| LR 8 - Hyperparameter | Sklearn documentation and hyperparameter tuning | - | [🔥 ](https://youtu.be/ay_OcblJasE?si=jxUuC_Mp8J6CJWUy) |
+| P1 Classification Metrics | Accuracy, confusion matrix, Type I & II errors, binary vs. multi-class | [👨‍💻  ](https://github.com/Rudra-G-23/100-Days-of-ML/blob/main/007-Logistic-Regression/D059-classification-metrics/d059-1-classification-metrics-binary.ipynb) | [🔥 ](https://youtu.be/c09drtuCS3c?si=DLNZwtnk52s1kKFl) |
+| P2 Classification Metrics Binary | Precision, recall & F1 score (binary) | [👨‍💻  ](https://github.com/Rudra-G-23/100-Days-of-ML/blob/main/007-Logistic-Regression/D059-classification-metrics/d059-2-classification-metrics-multi-iris.ipynb) | [🔥 ](https://youtu.be/iK-kdhJ-7yI?si=8q_tIFuS9gCAoOgc) |
+| P2 Classification Metrics Multi-Class | Precision, recall & F1 score (multi-class) | [👨‍💻  ](https://github.com/Rudra-G-23/100-Days-of-ML/blob/main/007-Logistic-Regression/D059-classification-metrics/d059-3-classification-metrics-multi-mnist.ipynb) | [🔥 ](https://youtu.be/iK-kdhJ-7yI?si=8q_tIFuS9gCAoOgc) |
+
+---
