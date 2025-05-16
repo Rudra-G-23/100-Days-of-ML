@@ -1,3 +1,82 @@
+<!-- Bio -->
+<p align="center">
+  <img src="https://github.com/Rudra-G-23/breast-cancer-prediction-app/blob/main/assets/rudra.png?raw=true" alt="rudra" width="300"/>
+</p>
+
+<!-- refer this for animation "https://github.com/DenverCoder1/readme-typing-svg?tab=readme-ov-file" -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=6000&pause=1000&color=5E17EB&center=true&vCenter=true&width=435&lines=Rudra+Prasad+Bhuyan;Data+Lover;Data+Science+Enthusiast" alt="Typing Effect" />
+</p>
+
+<!-- refer this for the badges "https://github.com/Ileriayo/markdown-badges#-developerforums" -->
+<p align="center">
+  <a href="https://github.com/Rudra-G-23">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
+  </a>
+  <a href="https://www.linkedin.com/in/rudra-prasad-bhuyan-44a388235">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://www.kaggle.com/rudraprasadbhuyan">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle Badge"/>
+  </a>
+</p>
+
+---
+
+<!-- Badges -->
+<p align="center">
+  <a href="https://pypi.org/project/numpy/">
+    <img src="https://img.shields.io/badge/numpy-2.2.4-blue?style=for-the-badge&logo=numpy" alt="numpy">
+  </a>
+  <a href="https://pypi.org/project/pandas/">
+    <img src="https://img.shields.io/badge/pandas-2.2.3-yellow?style=for-the-badge&logo=pandas" alt="pandas">
+  </a>
+  <a href="https://pypi.org/project/plotly/">
+    <img src="https://img.shields.io/badge/plotly-6.0.1-orange?style=for-the-badge&logo=plotly" alt="plotly">
+  </a>
+  <a href="https://pypi.org/project/scikit-learn/">
+    <img src="https://img.shields.io/badge/scikit--learn-1.6.1-green?style=for-the-badge&logo=scikit-learn" alt="scikit-learn">
+  </a>
+  <a href="https://pypi.org/project/streamlit/">
+    <img src="https://img.shields.io/badge/streamlit-1.44.1-red?style=for-the-badge&logo=streamlit" alt="streamlit">
+  </a>
+  <a href="https://pypi.org/project/seaborn/">
+    <img src="https://img.shields.io/badge/Seaborn-0.13.2-blue?style=for-the-badge&logo=seaborn" alt="Seaborn version">
+  </a>
+  <a href="https://pypi.org/project/scipy/">
+    <img src="https://img.shields.io/badge/SciPy-1.15.2-blue?style=for-the-badge&logo=scipy" alt="SciPy version">
+  </a>
+  <a href="https://pypi.org/project/mlxtend/">
+    <img src="https://img.shields.io/badge/mlxtend-0.23.4-blue?style=for-the-badge&logo=mlxtend" alt="mlxtend version">
+  </a>
+  <a href="https://pypi.org/project/matplotlib/">
+    <img src="https://img.shields.io/badge/Matplotlib-3.10.1-blue?style=for-the-badge&logo=matplotlib" alt="Matplotlib version">
+  </a>
+  <a href="https://pypi.org/project/dtreeviz/">
+    <img src="https://img.shields.io/badge/DTreeViz-2.2.2-blue?style=for-the-badge&logo=python" alt="DTreeViz version">
+  </a>
+</p>
+
+---
+
+## 📘 Table of Contents
+
+- [3. Feature Engineering](#3-feature-engineering)
+  - [3.1 🔧 Feature Transformation](#31--feature-transformation)
+    - [3.1.1 📌 Prerequisite](#311--prerequisite)
+    - [3.1.2 🔧 Encoding Categorical and Numerical Data](#312--encoding-categorical-and-numerical-data)
+    - [3.1.3 📏 Feature Scaling](#313--feature-scaling)
+    - [3.1.4 🧩 Handling Missing Data](#314--handling-missing-data)
+    - [3.1.5🚨 Handling Outliers](#315-handling-outliers)
+  - [3.2 🏗️ Feature Construction](#32-️-feature-construction)
+  - [3.3 🔍 Feature Extraction](#33--feature-extraction)
+- [4. 📊  Regression](#4---regression)
+- [5. 🧑‍💻 Gradient Descent](#5--gradient-descent)
+- [6. 👮 Regularization](#6--regularization)
+- [7. 📘 Logistic Regression](#7--logistic-regression)
+- [8. 🌴 Decision Tree](#8--decision-tree)
+
+---
 # 3. Feature Engineering  
 
 ## 3.1 🔧 Feature Transformation
@@ -149,5 +228,16 @@
 | P1 Classification Metrics | Accuracy, confusion matrix, Type I & II errors, binary vs. multi-class | [👨‍💻  ](https://github.com/Rudra-G-23/100-Days-of-ML/blob/main/007-Logistic-Regression/D059-classification-metrics/d059-1-classification-metrics-binary.ipynb) | [🔥 ](https://youtu.be/c09drtuCS3c?si=DLNZwtnk52s1kKFl) |
 | P2 Classification Metrics Binary | Precision, recall & F1 score (binary) | [👨‍💻  ](https://github.com/Rudra-G-23/100-Days-of-ML/blob/main/007-Logistic-Regression/D059-classification-metrics/d059-2-classification-metrics-multi-iris.ipynb) | [🔥 ](https://youtu.be/iK-kdhJ-7yI?si=8q_tIFuS9gCAoOgc) |
 | P2 Classification Metrics Multi-Class | Precision, recall & F1 score (multi-class) | [👨‍💻  ](https://github.com/Rudra-G-23/100-Days-of-ML/blob/main/007-Logistic-Regression/D059-classification-metrics/d059-3-classification-metrics-multi-mnist.ipynb) | [🔥 ](https://youtu.be/iK-kdhJ-7yI?si=8q_tIFuS9gCAoOgc) |
+
+---
+
+# 8. 🌴 Decision Tree
+
+| Topic | What You'll Learn | Notebook | Lecture |
+|-------|-------------------|----------------|--------------|
+| D1 - Decision Tree Geometric Intuition | Entropy, Gini Impurity, Information Gain | -  | [🔥](https://youtu.be/IZnno-dKgVQ?si=5tmUP56R95itdTmN)                                         |
+| D2 - Hyperparameters            | Overfitting and Underfitting            | [👨‍💻](https://github.com/Rudra-G-23/100-Days-of-ML/blob/main/008-Decision-Tree/d061-1-decision-trees-classification.ipynb) | [🔥](https://youtu.be/mDEV0Iucwz0?si=1AXH7wuJy9TciuUv)                                         |
+| D3 - Regression Trees         | Numerical Points                        | [👨‍💻](https://github.com/Rudra-G-23/100-Days-of-ML/blob/main/008-Decision-Tree/d061-2-decision-tree-regression.ipynb) | [🔥](https://youtu.be/RANHxyAvtM4?si=tWatJitWY0fmdT0N)                                         |
+| D4 - Awesome Decision Tree     | `dtreeviz` Library                      | [👨‍💻](https://github.com/Rudra-G-23/100-Days-of-ML/blob/main/008-Decision-Tree/d061-3-dtreeviz_demo.ipynb) | [🔥](https://youtu.be/RANHxyAvtM4?si=speQ_QjsBCKEy9yk)                                         |
 
 ---
