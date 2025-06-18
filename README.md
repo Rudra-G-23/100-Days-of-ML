@@ -75,6 +75,8 @@
 - [6. 👮 Regularization](#6--regularization)
 - [7. 📘 Logistic Regression](#7--logistic-regression)
 - [8. 🌴 Decision Tree](#8--decision-tree)
+- [9.🌋 Voting Ensemble Learning](#9-voting-ensemble-learning)
+- [10. 🛍️ Bagging Ensemble Learning](#10-️-bagging-ensemble-learning)
 
 ---
 # 3. Feature Engineering  
@@ -241,3 +243,24 @@
 | D4 - Awesome Decision Tree     | `dtreeviz` Library                      | [👨‍💻](https://github.com/Rudra-G-23/100-Days-of-ML/blob/main/008-Decision-Tree/d061-3-dtreeviz_demo.ipynb) | [🔥](https://youtu.be/RANHxyAvtM4?si=speQ_QjsBCKEy9yk)                                         |
 
 ---
+
+# 9.🌋 Voting Ensemble Learning
+
+| Topic                          | What You'll Learn                  | Notebook                                                                                    | Lecture                                                                                       |
+|--------------------------------|------------------------------------|------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------|
+| Intro to Ensemble Learning     | Ensemble techniques in ML          | -                                                                                                    | [🔥](https://youtu.be/bHK1fE_BUms?si=uGyvIKSgT6ZwKvX3)                                        |
+| VE1 - Voting Ensemble          | Code overview                      | -                                                                                                    | [🔥](https://youtu.be/_W1i-c_6rOk?si=wS6uzuGfgjSGdpB3)                                        |
+| VE2 - Voting Classifier        | Hard vs Soft voting                | [👨‍💻](https://github.com/Rudra-G-23/100-Days-of-ML/blob/main/009-Voting-Ensmble/d063-01-voting-classifier-iris.ipynb) | [🔥](https://youtu.be/pGQnNYdPTvY?si=im2srmpXhHDIBPO_)            |
+| VE3 - Voting Ensemble Regression | Ensemble for regression tasks      | [👨‍💻](https://github.com/Rudra-G-23/100-Days-of-ML/blob/main/009-Voting-Ensmble/d063-02-voting-regressor.ipynb)     | [🔥](https://youtu.be/ut4vh59rGkw?si=WjYF4t9Tf224R7Hd)    |
+
+
+---
+
+
+# 10. 🛍️ Bagging Ensemble Learning
+
+| Topic                 | What You'll Learn         | Notebook                                                                                         | Lecture                                                                                    |
+|-----------------------|---------------------------|----------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------|
+| BE1 - Introduction     | Basics of bagging         | [👨‍💻](https://github.com/Rudra-G-23/100-Days-of-ML/blob/main/010-Bagging-Ensemble/d064-01-bagging-learning.ipynb)      | [🔥](https://youtu.be/LUiBOAy7x6Y?si=27LJ6X3X_LdjVsAy)                                       |
+| BE2 - Bagging Classifiers | Bagging for classification | [👨‍💻](https://github.com/Rudra-G-23/100-Days-of-ML/blob/main/010-Bagging-Ensemble/d064-02-bagging-classifiers.ipynb)   | [🔥](https://youtu.be/-1T54G_E-ys?si=LPNYI-kthEb558zk)                                       |
+| BE3 - Bagging Regressor   | Bagging for regression    | [👨‍💻](https://github.com/Rudra-G-23/100-Days-of-ML/blob/main/010-Bagging-Ensemble/d064-03-bagging-regression.ipynb)     | [🔥](https://youtu.be/HYVzrETXbkE?si=Y5qlzBc4AwyrehtA)                                       |
